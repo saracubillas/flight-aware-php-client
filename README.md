@@ -21,11 +21,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/git_user_id/flight-aware-php-client.git"
+      "url": "https://github.com/saracubillas/flight-aware-php-client.git"
     }
   ],
   "require": {
-    "git_user_id/flight-aware-php-client": "*@dev"
+    "saracubillas/flight-aware-php-client": "*@dev"
   }
 }
 ```
