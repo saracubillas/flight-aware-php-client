@@ -1,7 +1,6 @@
 {
     "name": "saracubillas/flight-aware-php-client",
-    "version": "0.0.1",
-    "description": "",
+    "description": "very simple PHP client for the FlightAware API",
     "keywords": [
         "flightaware",
         "php",
