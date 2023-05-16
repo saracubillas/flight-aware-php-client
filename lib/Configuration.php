@@ -47,7 +47,7 @@ class Configuration
      *
      * @var string
      */
-    protected $host = 'https://aereoapi.flightaware.com/aeroapi';
+    protected $host = 'https://aeroapi.flightaware.com/aeroapi';
 
     /**
      * User agent of the HTTP request, set to "PHP-Swagger" by default
